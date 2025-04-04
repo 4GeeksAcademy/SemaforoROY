@@ -9,3 +9,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.CirculoA{
+
+    padding: 5rem;
+    width: 10rem;
+    border-radius: 50%;
+   
+    
+}
+
+.tamaño{
+    display: flex;
+        align-items: center;
+        flex-direction: column;
+}
